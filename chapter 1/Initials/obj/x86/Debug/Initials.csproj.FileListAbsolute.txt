@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Initials\bin\Debug\Initials.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Initials\bin\Debug\Initials.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Initials\obj\x86\Debug\Initials.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Initials\obj\x86\Debug\Initials.pdb

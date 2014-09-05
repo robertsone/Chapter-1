@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Quotations\bin\Debug\Quotations.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Quotations\bin\Debug\Quotations.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Quotations\obj\x86\Debug\Quotations.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\Quotations\obj\x86\Debug\Quotations.pdb

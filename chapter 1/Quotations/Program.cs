@@ -9,7 +9,7 @@ namespace Quotations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Its a-me Msario!\n-Mario");
+            Console.WriteLine("Its a-me Mario!\n-Mario");
         }
     }
 }
