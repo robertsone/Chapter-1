@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\chapter 1\bin\Debug\chapter 1.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\chapter 1\bin\Debug\chapter 1.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\chapter 1\obj\x86\Debug\chapter 1.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-1\chapter 1\chapter 1\obj\x86\Debug\chapter 1.pdb
